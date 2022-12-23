@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jadiorder-mobile",
+  "private_key_id": "1e1fdaec3317423d95d36e8ef93e2938a3c27e25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD4ZlT2AUleE31+\nmhfysrNmwP9R+1RncXk+bkAgpzARC3IEWdK78jJgJZBle7xqs3Gu3Y6irUP4QXva\nzaske1qNO45SyF+X5xoaUOpfSin9O9eA2FRx/eEl+zqh3iXpeo+rtMFFGhcaXN3x\nKK59ax1rw1tuNY9tBBNq/HZiS2DDijteDhK6nWYZiatKTRplrhXf6OieM3rOzLbw\n8kcNhWAqhb2/LcvESzOGIj/g5g2NJHxSQ/qYtr08/vq2/4iU3rnujYwjZXsZ3opU\nYHv157IxoO+mUDVNoeVFZqIqv5WoGH6cRs7MRADyGcxC1MHckWMwHJCV2Z1HT6w1\nw/128L+LAgMBAAECggEAFi0b0648uXt+Kv6hBoFbg+AIfofnuqgTF3aqhSyRg+Wk\nloZAZDG7Ic6CUpUWUEslHWPy6n7gGeDnjxq1qnc6ywlKODjJIM7rvsK1+EjiPWHw\nAbUOh1jCyewtovep8dGH0+AHMZI8bGJmTBpO+njejD+vwRCWDx9oh/1YqLp312BD\nmReqqLo/l21RZJsE3hTDMJn6jHieKvkgUvODewPFW+mjIl41wOvCV6QMIuYrL8BE\n1IkBRwebS6zm3nQbckqpE0BF2IRbQ340F3MC7XOT0Rbse0ir1n6PCv7DRGa9VR8m\nqSwtceOIChttFwNVdNZn7jNqCmB6Jug0tLcd3hRYpQKBgQD9Pg0JToVlXXfQo+Xp\nY0CpOnvvjpvCGkbQE+MJA8MyHYECJVkpJ9I24GgdmQEkkrsQYieROg+FyhhsV2qG\nrGB5+RzE7jwxLjGAyek4vGNNWxb6bihRIXoojSJx3SlQatWwHi7PqGJcqNzXNP3D\nRPREL00yN0F4YgBVt6DOkPULTQKBgQD7GsgIKrClfcFEZvxPes+NexGgJXU93udE\ngbeWsg0s4QPqvJ8vNpPthYmqDlpnN1mSBW0mdI6fE5QPfSXMS+f90L3zlnYSyveH\nb6qb3y66u52Fg+MhifWfyG7mCEWNO9b1UHzAon5GeLePcUqg+AJ93aW8JLPjIl2z\no7v1qfuaNwKBgQCK6zIdi9xzaZ2jb3Vc3RyIeNOp6zIYfW+hD3e45z55zGOLuM87\nW2PexKV4rwlIddF2QFHyQcZoHx/ctutx6zeVUYltoj6UwAFZ4+kzPWy/75sgT7OA\nJfwsKJffnHHgcmq8jSIiuf0TVXKn/6LBLp9MlCIlzNf2YNRMMUpeZnh19QKBgQCo\nTlgbGToTgonDJmAhiciKJR44QEMoODq88VEzoZ4xIZU1hj4QMD3Qq3wNTteLbU8N\nD7QMXX2m5EGObCyklZAm0P4wwf3cNMzaq58oINy6brxzXGYl+cl30ql6Z7ruolg/\nTzZ/C6sl4w3uCFqkL/fDk4fd5p/oMwWpParjS48H2wKBgQDNhFx/B9kX4k1lvwt6\nnwP3eQUttREmz6764x3ryV0zq8RE5aBRfk1UWBHpGHxw8yUJ50z2K/UkdMyU5fDr\noUOJ1Lg0bwwFlGyZ3Wyu2RUbSA6MyObSMEC15gBewAAwnmZrmFbH8ZnfAq11PaRk\nZpsn8KiHHJ9fSvcOZAEN9Tcmtg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kmubb@jadiorder-mobile.iam.gserviceaccount.com",
+  "client_id": "103135428909298248893",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kmubb%40jadiorder-mobile.iam.gserviceaccount.com"
+}
